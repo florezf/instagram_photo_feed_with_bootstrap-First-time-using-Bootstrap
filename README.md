@@ -1,14 +1,14 @@
-Project Title
+Project Title:
 Instagram_photo_feed_with_bootstrap-First-time-using-Bootstrap
 
-Installing
+Installing:
 https://github.com/florezf/instagram_photo_feed_with_bootstrap-First-time-using-Bootstrap.git
 
-Built With
+Built With:
 Cloud 9
 
-Versioning
+Versioning:
 We use SemVer for versioning. 
 
-Authors
+Authors:
 Fabio Florez
